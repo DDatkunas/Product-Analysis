@@ -20,8 +20,8 @@ This project evaluates same-day user journeys across a three-month dataset (~4,6
 
 ### Repository Files
 - [Dashboard](dashboard/)
-- [Query]()
-- [Hypothesis Testing]()
+- [Query](product_analysis.sql)
+- [Hypothesis Testing](product_hypothesis_tests.ipynb)
 
 ---
 
@@ -40,7 +40,7 @@ This project evaluates same-day user journeys across a three-month dataset (~4,6
 ### Behavioral & Segmentation Patterns
 * **Customer Retention:** Returning users converted significantly faster (13 min median) than first-time buyers (19.5 min median). 40% of repeat purchases occurred in the Fast/Very Fast duration tiers.
 * **Day-of-Week Trends:** Sundays saw the fastest median purchase times (16 min), while Wednesdays recorded the longest (22 min).
-* [Hypothesis Testing] showed statistical significance in both of these patterns.
+* [Hypothesis Testing](product_hypothesis_tests.ipynb) showed statistical significance in both of these patterns.
 
 ---
 
