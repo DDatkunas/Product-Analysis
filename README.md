@@ -10,7 +10,7 @@
 
 
 ### About the Project
-This project evaluates same-day user journeys across a three-month dataset (~4,600 daily purchases across 100 countries) to measure conversion speed trends, evaluate user behavior across acquisition channels and devices, and assess how conversion duration correlates with total revenue.
+This project evaluates same-day user journeys across a three-month dataset (~4,600 daily purchases across 100 countries) to measure conversion speed trends, evaluate user behavior across acquisition channels and devices, and assess how conversion duration correlates with total revenue. Dataset was provided by the Turing College.
 
 ---
 ### The core business objective
