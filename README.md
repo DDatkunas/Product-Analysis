@@ -9,16 +9,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-### About the Project
+## About the Project
 This project evaluates same-day user journeys across a three-month dataset (~4,600 daily purchases across 100 countries) to measure conversion speed trends, evaluate user behavior across acquisition channels and devices, and assess how conversion duration correlates with total revenue. Dataset was provided by the Turing College.
 
 ---
-### The core business objective
+## The core business objective
 - Identifying friction points in the checkout process, evaluate channel traffic efficiency, and uncover strategies to maximize Average Order Value (AOV).
+
+### Preview
+<img width="947" height="529" alt="image" src="https://github.com/user-attachments/assets/0f005842-cc07-4819-aada-5dbc8d75a9e2" />
 
 ---
 
-### Repository Files
+## Repository Files
 - [Dashboard](dashboard/)
 - [Query](product_analysis.sql)
 - [Hypothesis Testing](product_hypothesis_tests.ipynb)
@@ -44,7 +47,7 @@ This project evaluates same-day user journeys across a three-month dataset (~4,6
 
 ---
 
-### Recommendations
+## Recommendations
 
 1. **Optimize High-Consideration Paths for Larger Carts:** Since longer decision-making journeys correlate with higher AOV, implement UX features that support comparison behavior to boost revenue.
 2. **Enhance Personalization for Returning Buyers:** Repeat customers convert rapidly. Implementing personalized product recommendations, saved payment methods, and one-click reorder paths will capitalize on this existing speed advantage.
@@ -52,7 +55,7 @@ This project evaluates same-day user journeys across a three-month dataset (~4,6
 
 ---
 
-### Limitations of the Analysis
+## Limitations of the Analysis
 
 * **Same-Day Boundary Constraint:** Purchases completing on a different calendar day from the user's initial login were filtered out of this dataset, which may undercount longer multi-day consideration journeys.
 * **Timezone Standardization:** Event timestamps reflect UTC without user-level timezone data. Cross-midnight activity across global regions may lead to underreporting total daily purchase volume.
