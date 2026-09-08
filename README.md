@@ -18,6 +18,13 @@ This project evaluates same-day user journeys across a three-month dataset (~4,6
 
 ---
 
+### Repository Files
+- [Dashboard](dashboard/)
+- [Query]()
+- [Hypothesis Testing]()
+
+---
+
 ## Key Findings & Results
 
 ### Financial & Operational KPIs
